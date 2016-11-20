@@ -1,3 +1,6 @@
+/*Given an array, calculate a majority element in that array. If there is no majority number in array return "No majority number in given array".
+A number is called majority Number if it occur in array more than N/2 times (N is a length of an array).*/
+
 import java.io.File;
 import java.util.Scanner;
 public class Majority_Number_Calculator {
